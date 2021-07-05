@@ -1,0 +1,145 @@
+
+
+body {
+    margin: 30px;
+    padding: 30px;
+    background-color: rgb(15, 39, 71);
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+ul {
+    list-style-type: none;
+    
+}
+li {
+    display: inline;
+    position: relative;
+}
+#introimg {
+    margin-left: 150px;
+
+}
+
+#sec1 {
+    text-align: center;
+    color: white;
+}
+#butt1 {
+    background-color: rgb(57, 164, 206);
+    border: thin;
+    border-radius: 10px;
+    padding: 10px;
+    width: 150px;
+    color: white;
+}
+
+.G1 {
+    display: flex;
+    justify-content: space-between;
+    margin-right: 90px;
+    margin-left: 90px;
+   
+}
+#stay {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 40pxpx;
+    margin-right: 40px;
+}
+#stay.div {
+    text-align: center;
+    
+}
+
+.divall {
+    text-align: center;
+}
+.flex-container {
+    display: flex;
+}
+.flex-container> div {
+    margin: 10px;
+    padding: 20px;
+}
+.pic {
+    background-color: rgb(10, 5, 31);
+}
+.wrapper {
+    background-color: rgb(8, 52, 110);
+    border: thin;
+    margin-top: 80px;
+    margin-bottom: 30px;
+    margin-left: 195px;
+    width: 800px;
+    height: 200px;
+    text-align: center; 
+
+}
+
+#link {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 50px;
+    margin-right: 150px;
+
+}
+
+#input {
+    width: 400px;
+    border: thin;
+    border-radius: 15px;
+    padding: 5px;
+}
+
+#butt2 {
+    background-color: rgb(57, 164, 206);
+    border: thin;
+    border-radius: 15px;
+    padding: 5px;
+    width: 150px;
+    color: white;
+}
+#get {
+    padding-top: 15px;
+}
+#container {
+    background-image: url("bg-curvy-desktop.svg");
+    
+}
+#flex-container {
+    display: flex;
+    justify-content: space-between;
+
+}
+#mag {
+    position: absolute;
+    margin-left: 30px;
+    left: -0.5px;
+}
+.fa {
+    padding: 5px;
+    width: 20px;
+    font-size: 30px;
+    border-radius: 50%;
+    justify-content: space-between;
+    text-align: center;
+
+
+}
+
+.fa-facebook {
+    background: rgb(8, 52, 110);
+    color: white;
+}
+.fa-twitter{
+    background: rgb(8, 52, 110);
+    color: white;
+}
+
+.fa-instagram {
+    background: rgb(8, 52, 110);
+    color: white;
+}
+@media screen and (max-width: 992px)
+    
+}
